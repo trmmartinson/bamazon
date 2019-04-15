@@ -15,5 +15,5 @@ you want should choose exit.  A summary of your order will then appear.
 
 Click the link to see a demo!
 
-* [BAMAZON demo](https://github.com/trmmartinson/trmmartinson.github.io/blob/master/media/bamazondemo.wmv)
+* [BAMAZON demo](https://trmmartinson.github.io/media/bamazondemo.wmv)
 
